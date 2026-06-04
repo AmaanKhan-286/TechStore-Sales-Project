@@ -5,16 +5,16 @@ A modern and interactive Power BI Sales Analytics Dashboard designed for a Tech 
 
 This dashboard provides a complete overview of business performance through dynamic charts, KPI cards, and category-wise analysis, helping users make data-driven decisions efficiently.
 
-# Key Features
-## 📊 Revenue Analysis by State
+## Key Features
+### 📊 Revenue Analysis by State
 Visual comparison of total revenue generated across different states.
-## 🛒 Sales by Product Category
+### 🛒 Sales by Product Category
 Track category-wise sales performance for products like SSDs, RAM, Mouse, Printers, and more.
-## 🏷️ Brand Revenue Distribution
+### 🏷️ Brand Revenue Distribution
 Donut chart representation of revenue contribution by top brands such as Samsung, Nvidia, Western Digital, and Seagate.
-## 📦 Highest Sale & Total Orders by Product
+### 📦 Highest Sale & Total Orders by Product
 Combined chart to compare highest sales and total order volume for top-selling products.
-## 🎯 Interactive Filters (Slicers)
+### 🎯 Interactive Filters (Slicers)
 Dynamic filtering by:
 Category
 State
@@ -53,4 +53,5 @@ Tech Store Sales Analytics Dashboard showcasing revenue trends, category perform
 
 ### Screenshots
 Show what the dashboard looks like.          
-Example: ![Dashboard Preview].(https://github.com/AmaanKhan-286/TechStore-Dashboard/blob/main/TechStore%20Dashboard%20Snapshot.png)
+Example: 
+![Dashboard Preview].(https://github.com/AmaanKhan-286/TechStore-Dashboard/blob/main/TechStore%20Dashboard%20Snapshot.png)
