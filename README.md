@@ -50,3 +50,6 @@ Portfolio and resume projects
 
 ## Preview
 Tech Store Sales Analytics Dashboard showcasing revenue trends, category performance, and brand insights in a modern business intelligence interface
+
+## Screenshots 
+
