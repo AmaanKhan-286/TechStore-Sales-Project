@@ -51,5 +51,5 @@ Portfolio and resume projects
 ## Preview
 Tech Store Sales Analytics Dashboard showcasing revenue trends, category performance, and brand insights in a modern business intelligence interface
 
-## Screenshots 
-
+### Screenshots 
+Example: ![Dashboard Preview].(https://github.com/AmaanKhan-286/TechStore-Dashboard/blob/main/TechStore%20Dashboard%20Snapshot.png)
