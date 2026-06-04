@@ -54,4 +54,4 @@ Tech Store Sales Analytics Dashboard showcasing revenue trends, category perform
 ### Screenshots
 Show what the dashboard looks like.          
 Example:                                                                                                                
- ![Dashboard Preview](https://github.com/AmaanKhan-286/TechStore-Dashboard/blob/main/TechStore%20Dashboard%20Snapshot.png)
+ ![Dashboard Preview](https://github.com/AmaanKhan-286/TechStore-Sales-Project/blob/main/TechStore-Dashboard%20Snapshot.png)
